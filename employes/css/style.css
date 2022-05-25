@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+  
+body {
+    line-height: 1;
+    font-size: 2rem;
+    width: 80%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color:grey;
+}
+
+.container-fluid {
+    height: 85vh;
+}
+
+#header {
+    display: flex;
+}
+
+#logo {
+    height: 70px;
+    width: 70px;
+}
+
+#h-1 {
+    margin: 20px 0 0 10px;
+    font-size: 3rem;
+}
+
+#h-2 {
+    margin: 30px 0 0 70%;
+    font-size: 1.5rem;
+}
+
+#info {
+    margin: 15% 0 0 40%;
+    font-size: 3rem;
+}
